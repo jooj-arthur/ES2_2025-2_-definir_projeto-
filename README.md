@@ -1,2 +1,2 @@
-# ES2_2025-2_-definir_projeto-
+# ES2_2025-2_nicegui
 Projeto da disciplina Engenharia de Software 2
